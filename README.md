@@ -33,4 +33,3 @@ The purpose of this project is to create effective visualizations from the Citi 
 
 Here is the link to my Dashboard.
 https://public.tableau.com/app/profile/adebayo.ajibosin/viz/CitiBikeProject_16444352581070/UserTripsbyGenderbyWeekday?publish=yes
-
