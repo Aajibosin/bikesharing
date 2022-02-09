@@ -21,3 +21,15 @@ This visualization shows the best time to start trip on weekday.
 
 
 
+<img width="323" alt="image" src="https://user-images.githubusercontent.com/93049677/153272966-f69b1335-f268-4196-8bb4-cda4b49c8352.png">
+This visualization shows that male subscribers  best start time is between Wednesday and Thursday.
+
+
+# Summary 
+The purpose of this project is to create effective visualizations from the Citi Bike data using different tools to create images. In this project, we were able to demostrate how data can grahically represent images using Tableau. We were also able to use different kinds of visualizations based on results. The following are results we achieved. 
+
+
+
+
+
+
