@@ -5,5 +5,5 @@ The purpose of this project is to create effective visualizations from the Citi 
 # Results:
 
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/93049677/153265816-7c4f0826-e67a-4fdc-aa1a-a4d8e77fd356.png">
-This result shows the peak duration of riders
+This result shows the peak duration of riders. 
 
